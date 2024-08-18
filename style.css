@@ -1,0 +1,283 @@
+*{
+    margin: 0px 60px;
+    padding: 0px 0px;
+    box-sizing: border-box;
+    font-family: "Gupter", serif;
+    background-color: azure;
+    align-items: center;
+}
+body{
+    margin-left: 30px;
+    width: 986px;
+    height: 100vh;
+}
+ .header{
+    height: 150px;
+    width: 100%;
+    display: flex;
+    background-color: azure;
+}
+.header div{
+    width: 400px;
+   
+}
+.header h1{
+    color: rgb(50, 188, 188);
+   width: 336px;
+   background-color: azure;
+}
+.header p{
+    color: rgb(50, 188, 188);
+    background-color: azure;
+}
+.header-box{
+    height: 116px;
+    width: 150px;
+    background-color:  rgb(50, 188, 188);
+    margin-left: 10%;
+    margin-top: -38px;
+    
+}
+
+.down-header{
+    height: 300px;
+    width: 100%;
+    background-color: rgb(50, 188, 188); ;
+}
+
+.top{
+display: flex;
+background-color: rgb(50, 188, 188);
+height: 200px;
+}
+
+.text{
+margin: 10px -5px;
+background-color: rgb(50, 188, 188);
+color: aliceblue;
+}
+.text h2{
+    background-color: rgb(50, 188, 188);
+    margin: 10px 60px;
+    color:aliceblue;
+}
+.text p{
+    background-color: rgb(50, 188, 188);
+    margin: 10px 60px;
+    width: 450px;
+}
+
+.header img{
+    height: 230px;
+    width: 210px;
+    margin: 0px 20px;
+    margin-top: 190px;
+    margin-left: -130px;
+}
+.img{
+    /* background-color:aliceblue; */
+    background: transparent;
+    margin: 10px 0px;
+    height: 400px;
+    width: 200px;
+}
+
+.img img{
+    border-radius: 10px;
+    overflow:hidden ;
+}
+.frist-icon{
+    display: flex;
+    margin: 10px 0px;
+    margin-left: 0px;
+    background-color: rgb(50, 188, 188);
+}
+.frist{
+    display: flex;
+    background-color: rgb(50, 188, 188);
+}
+.frist .icon{
+    margin-left: -7px;
+    background-color: rgb(50, 188, 188);
+}
+.frist .icon-2{
+    margin-left: -68px;
+    background-color: rgb(50, 188, 188);
+}
+.frist .icon-3{
+    margin-left: -50px;
+    background-color: rgb(50, 188, 188);
+    color: aliceblue;
+}
+.frist i{
+    background-color: rgb(50, 188, 188);
+    color: aliceblue;
+}
+.frist h3{
+    margin-left: -100px;
+    background-color: rgb(50, 188, 188);
+    color: aliceblue;
+}
+/* ------------------------------------------------------------- */
+.second-icon{
+    display: flex;
+    margin: 10px 0px;
+    background-color: rgb(50, 188, 188);
+}
+.second{
+    display: flex;
+    background-color: rgb(50, 188, 188);
+}
+.second .icon{
+    margin-left: -7px;
+    background-color: rgb(50, 188, 188);
+    color: aliceblue;
+}
+.second .icon-2{
+    margin-left: -180px;
+    background-color: rgb(50, 188, 188);
+    color: aliceblue;
+}
+.second .icon-3{
+    margin-left: -177px;
+    background-color: rgb(50, 188, 188);
+    color: aliceblue;
+    
+}
+.second i{
+    background-color: rgb(50, 188, 188);
+}
+.second h3{
+    margin-left: -101px;
+    background-color: rgb(50, 188, 188);
+    width: 222px;
+    color: aliceblue;
+
+}
+.second .dob{
+    width: 151px;
+}
+.second .address{
+    width: 195px;
+}
+
+.details{
+    margin-left: 0px;
+}
+.text-date{
+    margin-left: -58px;
+}
+.inst{
+    display: flex;
+}
+.inst .kpi{
+    width: 194px;
+    margin-left: -50px;
+}
+.inst h4{
+    width: 113px;
+    margin-left: 0px;
+}
+hr{
+    width: 350px;
+}
+.rslt{
+    margin-top: 5px;
+    margin-left: 82px;
+    font-style: italic;
+}
+.second-hr{
+    margin-left: 120px;
+    margin-top: 0px;
+}
+.work-title{
+    margin-top: 45px;
+}
+.work{
+    display: flex;
+}
+.work h4{
+    margin-left: -51px;
+}
+.activities-title h4{
+    margin-top: 45px;
+}
+.activ{
+    display: flex;
+    margin-left: 0px;
+}
+.active-info ul li{
+    list-style: square;
+}
+/* .activ h4{
+    margin-left: -52px;
+} */
+.rover{
+    margin-left: -52px;
+}
+.date{
+    margin-left: 86px;
+}
+.active-info ul{
+    margin-left: -26px;
+    margin-top: 10px;
+}
+.left{
+    margin-top: -98px;
+    width: 677px;
+    margin-left: 48px;
+}
+
+.details{
+    display: flex;
+}
+
+.right{
+    height: 100vh;
+    width: 500px;
+    margin-left: -299px;
+}
+.right .title{
+    margin-top: 0px;
+}
+.com{
+    display: flex;
+}
+.com h4{
+    margin-left: -52px;
+}
+.skills ul{
+    margin: 10px;
+    margin-left: 95px;
+}
+.skills ul li{
+    list-style:square;
+}
+.h-a p{
+    margin-left: 140px;
+}
+
+.certify{
+margin-top: 20px;
+}
+.certify p{
+margin-left: 139px;
+}
+.honors{
+    margin: 20px;
+    margin-left: 0px;
+}
+.hor h4{
+    /* margin: 10px; */
+    margin-left: -52px;
+}
+.hor{
+    display: flex;
+}
+.interests{
+    margin-top: 20px;
+}
+.interests p{
+    margin-top: 10px;
+    margin-left: 140px;
+}
